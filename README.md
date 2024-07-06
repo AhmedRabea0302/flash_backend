@@ -63,4 +63,4 @@ Clone the repository:
    git clone -b master git@github.com:AhmedRabea0302/flash_backend.git
    cd flash_backend
    npm install
-   npm run dev
+   npm start dev
